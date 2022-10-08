@@ -12,7 +12,7 @@ const Result = () => {
           Reset
         </Link>
         <Link className="reset" to={"/Questions"}>
-          Review
+          Re
         </Link>
       </div>
     </>
